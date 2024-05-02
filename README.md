@@ -1,0 +1,2 @@
+# Zoro
+New Morocco bot
